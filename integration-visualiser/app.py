@@ -94,7 +94,6 @@ with st.sidebar:
     st.header("About the Project")
     st.write("Mathematics Innovative Assignment")
     st.write("**K Hemant Kumar**")
-    st.write("Registration No: 2602190045")
     st.write("Mechanical and Smart Manufacturing Engineering")
     st.write("Semester 1 | VSSUT, Burla")
 
